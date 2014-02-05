@@ -4,7 +4,7 @@
 
 var Howl = (function(global) {
   var Howl = function() {
-    return (this instanceof Howl) ? this.init.apply(this, arguments) : new Howl();
+    return (this instanceof Howl) ? this.init() : new Howl();
   };
 
   (function(prototype) {
