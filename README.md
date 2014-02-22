@@ -1,6 +1,6 @@
 # Howl.js
 
-Howl.js is simple path router for use in client side
+Howl.js is a simple path router for use in client side
 
 ## Usage
 

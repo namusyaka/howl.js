@@ -1,4 +1,4 @@
-//     Howl.js 0.0.1
+//     Howl.js 0.0.2
 //     (c) namusyaka
 //     Howl is free software distributed under the MIT license.
 
